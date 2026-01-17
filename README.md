@@ -1,37 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
 
-## Getting Started
+# 🚀 SportOn FE
 
-First, run the development server:
+Frontend web application for **SportOn Platform**  
+Built with modern web technologies for performance, scalability, and great user experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<br/>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<!-- Core Tech -->
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<br/><br/>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<!-- Tools -->
+<img src="https://img.shields.io/badge/ESLint-0F172A?style=for-the-badge&logo=eslint&logoColor=4B32C3" />
+<img src="https://img.shields.io/badge/Prettier-0F172A?style=for-the-badge&logo=prettier&logoColor=F7B93E" />
+<img src="https://img.shields.io/badge/API-0F172A?style=for-the-badge&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
-## Learn More
+</div>
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ✨ About The Project
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**SportOn FE** adalah aplikasi **frontend berbasis Next.js** yang dikembangkan untuk menghadirkan antarmuka modern, responsif, dan intuitif pada platform **SportOn**.
 
-## Deploy on Vercel
+Project ini dirancang dengan fokus pada:
+- 🎯 **User Experience yang optimal**
+- ⚡ **Performa tinggi & SEO-friendly**
+- 🧩 **Struktur kode yang rapi dan scalable**
+- 🔌 **Mudah diintegrasikan dengan API backend**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+SportOn FE cocok digunakan sebagai fondasi pengembangan aplikasi web skala kecil hingga besar.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# sporton-fe
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technology |
+|--------|------------|
+| Framework | Next.js (App Router) |
+| Library | React.js |
+| Language | TypeScript |
+| Styling | Tailwind CSS |
+| Code Quality | ESLint, Prettier |
+| API Integration | REST API |
+| Deployment | Vercel |
+
+---
+
+## 📸 Preview
+
+> _Preview tampilan aplikasi akan ditambahkan di sini_
+
+```txt
+📷 Screenshot / GIF
+(coming soon)
